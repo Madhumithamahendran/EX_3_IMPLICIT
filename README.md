@@ -1,3 +1,4 @@
+## DATE : 02.09.2024
 ## EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
 Design an Android application with a text field and an "Open in Browser" button. On pressing the button, the app should fetch the URL from the text field and open it in a browser using an Implicit Intent.
 
@@ -92,11 +93,14 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 </RelativeLayout>
 ```
 ## OUTPUT:
+
 ![367525141-526e77b6-79fc-4f25-86ae-7ca4ee37ec65](https://github.com/user-attachments/assets/39b2869a-58fd-489d-ae75-dccfb32502b4)
 
 ![367525149-f25e7a82-e12b-4f13-a3e2-f92730c0ce88](https://github.com/user-attachments/assets/8a1a2cde-70b7-4026-9a7c-c9144b49423c)
 
 ![367525162-ad3f0e7c-9dcc-49a8-b4be-af4dc391885f](https://github.com/user-attachments/assets/10e2d096-912e-4134-bb11-d21e52c18f21)
 
+
 ## RESULT
+
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the web page using Android Studio was developed and executed successfully.
